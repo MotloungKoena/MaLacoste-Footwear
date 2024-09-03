@@ -1,0 +1,52 @@
+﻿@model IEnumerable<IdentityRole>
+
+@{
+    ViewData["Title"] = "Roles";
+}
+
+<div class="bg-primary m-1 p-1"><h4>Roles</h4></div>
+
+<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+<table class="table table-sm table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Users</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() == 0)
+        {
+            <tr><td colspan="4" class="text-center">No Roles</td></tr>
+        }
+        else
+        {
+            foreach (var role in Model)
+            {
+                <tr>
+                    <td>@role.Id</td>
+                    <td>@role.Name</td>
+                    <td identity-role-id="@role.Id"></td>
+                    <td>
+                        <form asp-action="Delete" asp-route-id="@role.Id" method="post">
+                            <a class="btn btn-sm btn-primary" asp-action="Edit"
+                               asp-route-id="@role.Id">Edit</a>
+                            @if (!string.Equals(role.Name.ToUpper(), "ADMIN"))
+                            {
+                                <button type="submit" class="btn btn-sm btn-danger"
+                                onclick="return confirm('Are you sure you wanna delete this user ?')">
+                                    Delete
+                                </button>
+                            }
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<p><a class="btn btn-primary" asp-action="Create">Create</a></p>

@@ -1,0 +1,71 @@
+﻿@model SneakerListViewModel
+@{
+    ViewBag.Title = "Sneaker List";
+}
+
+<h1>Sneaker List</h1>
+<div class="row">
+
+    @*Side menu for brands*@
+    <div class="col-sm-2">
+       
+    </div>
+
+    <div class="col-sm-10">
+        @*this takes 10 columns/grids*@
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>
+                        <a asp-action="List"
+                           asp-route-sortBy="@ViewData["NameSortParam"]"
+                           asp-route-id="@Model.SelectedBrand"
+                           asp-route-productPage="@Model.PagingInfo.CurrentPage">
+                            Name
+                        </a>
+                    </th>
+                    <th>
+                        <a asp-action="List"
+                           asp-route-sortBy="@ViewData["PriceSortParam"]"
+                           asp-route-id="@Model.SelectedBrand"
+                           asp-route-productPage="@Model.PagingInfo.CurrentPage">
+                            Price
+                        </a>
+                    </th>
+                    <th></th>
+                    <th></th>
+            </thead>
+
+
+            <tbody>
+                @foreach (var sneaker in Model.Sneakers)
+                {
+                    <tr>
+                        <td>@sneaker.Name</td>
+                        <td>@sneaker.Price.ToString("C")</td>
+                        <td>
+                            <a asp-action="Details"
+                               asp-route-id="@sneaker.SneakerId"
+                               asp-route-slug="@sneaker.Slug">View Details</a>
+                        </td>
+                        <td>
+                            @if (User.Identity.IsAuthenticated && User.IsInRole("Customer")) @* this will only be available to customers not admin *@
+                            {
+                                <a asp-controller="Cart" asp-action="Index"
+                                   asp-route-id="@sneaker.SneakerId"
+                                   asp-route-slug="@sneaker.Slug">Add to Cart</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div page-model="@Model.PagingInfo" page-action="List"
+             page-classes-enabled="true"
+             page-class="btn" page-class-normal="btn-outline-dark"
+             page-class-selected="btn-primary"
+             class="btn-group pull-right m-1">
+        </div>
+    </div>
+</div>

@@ -1,0 +1,53 @@
+﻿
+@model SneakerListViewModel
+@{
+    Layout = "_AdminLayout";
+    ViewBag.Title = "Sneaker Manager";
+}
+
+<h1>@ViewBag.Title</h1>
+
+@*dismissable alert*@
+@if (TempData["Message"] is not null)
+{
+    <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        @TempData["Message"]
+    </div>
+}
+
+<div class="row">
+    <div class="col-sm-2">
+        <vc:brand-menu></vc:brand-menu> <!--this is with the components, it displays the beautiful menu instead of just a menu -->
+    </div>
+
+    <div class="col-sm-10">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th class="text-end">Price</th>
+                    <th></th>
+                    <th></th>
+            </thead>
+            <tbody>
+                @foreach (var p in Model.Sneakers)
+                {
+                    <tr>
+                        <td>@p.Name</td>
+                        <td class="text-end">@p.Price.ToString("C")</td>
+                        <td>
+                            <a asp-action="Update"
+                               asp-route-id="@p.SneakerId">Update</a>
+                        </td>
+                        <td>
+                            <a asp-action="Delete"
+                               asp-route-id="@p.SneakerId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <a asp-action="Add" class="btn btn-primary">Add New Sneaker</a>
+    </div>
+</div>

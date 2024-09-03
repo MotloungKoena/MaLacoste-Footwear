@@ -1,0 +1,16 @@
+﻿@model Brand
+@{
+    Layout = "_AdminLayout";
+    ViewBag.Title = "Delete Sneaker";
+}
+
+<h1>Confirm Deletion</h1>
+<h3>@Model.BrandName</h3>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="BrandId" />
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <a asp-action="List" class="btn btn-primary">Cancel</a>
+</form>
+
+

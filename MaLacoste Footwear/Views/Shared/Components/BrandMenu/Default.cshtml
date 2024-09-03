@@ -1,0 +1,25 @@
+﻿@model BrandListViewModel
+
+<ul class="list-group">
+    <li class="list-group-item">
+        <a asp-action="List"
+           asp-route-id="All"
+           class="list-group-item
+                            @Model.CheckActiveBrand("all")
+                            @Model.CheckActiveBrand(null)"> @*Its a must to check for nulls, if not you will get an error*@
+            All
+        </a>
+    </li>
+
+    @foreach (Brand brand in Model.Brands)
+    {
+        <li class="list-group-item">
+            <a asp-action="List"
+               asp-route-id="@brand.BrandName"
+               class="list-group-item
+                            @Model.CheckActiveBrand(brand.BrandName.ToLower())">
+                @brand.BrandName
+            </a>
+        </li>
+    }
+</ul>

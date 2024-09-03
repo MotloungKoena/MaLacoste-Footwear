@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "_AdminLayout";
+    ViewBag.Title = "Admin";
+}
+
+<div class="row">
+    <div class="col-sm-4">
+        <div class="list-group">
+            <a asp-controller="AdminBrand" asp-action="List"
+               class="list-group-item">Manage brands</a>
+            <a asp-controller="AdminSneaker" asp-action="List"
+               class="list-group-item">Manage sneakers</a>
+        </div>
+    </div>
+</div>

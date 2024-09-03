@@ -1,0 +1,1257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\sneaker\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\sneaker\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\sneaker\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\sneaker\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\shared\\components\\brandmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\shared\\components\\brandmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\review\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\review\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminuser\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminuser\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminuser\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminuser\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminuser\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminuser\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminsneaker\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminsneaker\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminsneaker\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminsneaker\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminsneaker\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminsneaker\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminrole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminrole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminrole\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminrole\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminrole\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminrole\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminbrand\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminbrand\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminbrand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminbrand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\adminbrand\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\adminbrand\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\sneaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\sneaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\viewmodels\\usercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\viewmodels\\usercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\viewmodels\\sneakerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\viewmodels\\sneakerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\viewmodels\\roleviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\viewmodels\\roleviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\viewmodels\\paginginfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\viewmodels\\paginginfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\models\\viewmodels\\brandlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\models\\viewmodels\\brandlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\infrastructure\\roleuserstaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\infrastructure\\roleuserstaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\infrastructure\\profileimagetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\infrastructure\\profileimagetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\infrastructure\\customuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\infrastructure\\customuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\infrastructure\\custompasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\infrastructure\\custompasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\infrastructure\\buttontaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\infrastructure\\buttontaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\sneakerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\sneakerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\sneakeridentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\sneakeridentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\seeddataidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\seeddataidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\isneakerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\isneakerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\data\\dataaccess\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\data\\dataaccess\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\sneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\sneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\adminsneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\adminsneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\adminrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\adminrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\adminbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\adminbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\components\\brandmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\components\\brandmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\malacoste footwear.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\malacoste footwear.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|c:\\users\\lacoste\\desktop\\malacoste footwear\\malacoste footwear\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A6085F2-9327-4C1C-B480-049EEC511011}|MaLacoste Footwear\\MaLacoste Footwear.csproj|solutionrelative:malacoste footwear\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Sneaker\\List.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Sneaker\\List.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Sneaker\\List.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Sneaker\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:52:40.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Sneaker\\Details.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Sneaker\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Sneaker\\Details.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Sneaker\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:52:30.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Shared\\Components\\BrandMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Shared\\Components\\BrandMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Shared\\Components\\BrandMenu\\Default.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Shared\\Components\\BrandMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:49.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Review\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Review\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Review\\Index.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Review\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Review\\Create.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Review\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Review\\Create.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Review\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Review\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Review\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Review\\Confirmation.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Review\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:38.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:28.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Program.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Program.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Program.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:57:26.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T08:36:57.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T08:37:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:25.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminUser\\Index1.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminUser\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminUser\\Index1.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminUser\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminUser\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminUser\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminUser\\Edit.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminUser\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:15.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminUser\\Create.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminUser\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminUser\\Create.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminUser\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:51:14.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminSneaker\\List.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminSneaker\\List.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminSneaker\\List.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminSneaker\\List.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminSneaker\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminSneaker\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminSneaker\\Delete.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminSneaker\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminSneaker\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminSneaker\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminSneaker\\AddUpdate.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminSneaker\\AddUpdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminRole\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminRole\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminRole\\Index.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminRole\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminRole\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminRole\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminRole\\Edit.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminRole\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:32.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminRole\\Create.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminRole\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminRole\\Create.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminRole\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:31.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminHome\\Index.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminHome\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminBrand\\List.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminBrand\\List.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminBrand\\List.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminBrand\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminBrand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminBrand\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminBrand\\Delete.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminBrand\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:17.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminBrand\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\AdminBrand\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\AdminBrand\\AddUpdate.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\AdminBrand\\AddUpdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:16.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:12.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:10.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:50:08.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SneakerListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\SneakerListViewModel.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\ViewModels\\SneakerListViewModel.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\SneakerListViewModel.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\ViewModels\\SneakerListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:57:22.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:01:03.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\AppUser.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:34:03.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Brand.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:58:49.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Gender.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:49:00.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Review.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:58:57.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Sneaker.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Sneaker.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\Sneaker.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\Sneaker.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\Sneaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:48:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoleViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\RoleViewModels.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\ViewModels\\RoleViewModels.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\RoleViewModels.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\ViewModels\\RoleViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:48:44.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:37:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PagingInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:49:21.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:36:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BrandListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\BrandListViewModel.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Models\\ViewModels\\BrandListViewModel.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Models\\ViewModels\\BrandListViewModel.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Models\\ViewModels\\BrandListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:00:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoleUsersTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\RoleUsersTagHelper.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Infrastructure\\RoleUsersTagHelper.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\RoleUsersTagHelper.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Infrastructure\\RoleUsersTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:48:40.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProfileImageTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\ProfileImageTagHelper.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Infrastructure\\ProfileImageTagHelper.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\ProfileImageTagHelper.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Infrastructure\\ProfileImageTagHelper.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:48:15.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Infrastructure\\PageLinkTagHelper.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Infrastructure\\PageLinkTagHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:48:02.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\CustomUserValidator.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Infrastructure\\CustomUserValidator.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\CustomUserValidator.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Infrastructure\\CustomUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:47:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomPasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\CustomPasswordValidator.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Infrastructure\\CustomPasswordValidator.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\CustomPasswordValidator.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Infrastructure\\CustomPasswordValidator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:47:35.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ButtonTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\ButtonTagHelper.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Infrastructure\\ButtonTagHelper.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Infrastructure\\ButtonTagHelper.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Infrastructure\\ButtonTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:47:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SneakerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SneakerRepository.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\SneakerRepository.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SneakerRepository.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\SneakerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:47:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\RepositoryWrapper.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\RepositoryWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:46:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\RepositoryBase.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:46:54.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ISneakerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\ISneakerRepository.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\ISneakerRepository.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\ISneakerRepository.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\ISneakerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:46:45.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SeedData.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\SeedData.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:07:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SeedDataIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SeedDataIdentity.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\SeedDataIdentity.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SeedDataIdentity.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\SeedDataIdentity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:01:13.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SneakerIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SneakerIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\SneakerIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\SneakerIdentityDbContext.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\SneakerIdentityDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:41:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\IRepositoryBase.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:46:42.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\BrandRepository.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\BrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:46:39.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SneakerController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\SneakerController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\SneakerController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\SneakerController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\SneakerController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:45:02.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:44:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:44:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QueryOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\DataAccess\\QueryOptions.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\DataAccess\\QueryOptions.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\DataAccess\\QueryOptions.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\DataAccess\\QueryOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:22:49.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\IBrandRepository.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:06:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:44:55.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:22:54.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\AdminUserController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:44:49.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AdminSneakerController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminSneakerController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\AdminSneakerController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminSneakerController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\AdminSneakerController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:43:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AdminRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminRoleController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\AdminRoleController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminRoleController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\AdminRoleController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:43:25.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AdminBrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminBrandController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\AdminBrandController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminBrandController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\AdminBrandController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:42:40.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AdminHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminHomeController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\AdminHomeController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AdminHomeController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\AdminHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:43:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BrandMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Components\\BrandMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Components\\BrandMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Components\\BrandMenuViewComponent.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Components\\BrandMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:59:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MaLacoste Footwear\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwGoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:25:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MaLacoste Footwear\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T08:32:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\appsettings.json",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\appsettings.json",
+              "RelativeToolTip": "MaLacoste Footwear\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T17:56:06.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MaLacoste Footwear.csproj",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\MaLacoste Footwear.csproj",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\MaLacoste Footwear.csproj",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\MaLacoste Footwear.csproj",
+              "RelativeToolTip": "MaLacoste Footwear\\MaLacoste Footwear.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T18:32:00.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\libman.json",
+              "RelativeDocumentMoniker": "MaLacoste Footwear\\libman.json",
+              "ToolTip": "C:\\Users\\Lacoste\\Desktop\\MaLacoste Footwear\\MaLacoste Footwear\\libman.json",
+              "RelativeToolTip": "MaLacoste Footwear\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T17:56:04.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

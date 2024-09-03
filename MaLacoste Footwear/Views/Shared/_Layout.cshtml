@@ -1,0 +1,131 @@
+﻿@{
+    string controller =
+        ViewContext.RouteData.Values["controller"].ToString();
+    string action =
+        ViewContext.RouteData.Values["action"].ToString();
+}
+<!DOCTYPE html>
+@* Motloung KE, 2019476593, Software Developer, University of the Free State *@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title - MaLacoste Footwear</title>
+    <link rel="stylesheet" asp-href-include="/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" asp-href-include="/css/custom.css" />
+    <link rel="stylesheet" asp-href-include="/lib/font-awesome/css/all.min.css" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark bg-secondary fixed-top">
+            <a class="navbar-brand" href="/">MaLacoste Footwear</a>
+            <button class="navbar-toggler" type="button"
+                    data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <nav class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="navbar-nav me-auto">
+
+                    <a class="nav-link
+                        @(controller == "Home" && action == "Index" ? "active fw-bold text-decoration-underline" : "")"
+                       asp-controller="Home" asp-action="Index">Home</a>
+
+                    <a class="nav-link
+                        @(controller == "Sneaker" ? "active fw-bold text-decoration-underline" : "")"
+                       asp-controller="Sneaker" asp-action="List">Sneakers</a>
+
+                    <a class="nav-link
+                        @(controller == "Home" && action == "About" ? "active fw-bold text-decoration-underline" : "")"
+                       asp-controller="Home" asp-action="About">About</a>
+                </div>
+
+                <ul class="navbar-nav navbar-right">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-link">
+                            Hello, @User.Identity.Name
+                            <img profile-user="@User.Identity.Name" />
+                        </li>
+                        @if (string.Equals(User.Identity.Name.ToUpper(), "ADMIN"))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Users</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-controller="AdminUser"
+                                       asp-action="Index1">User Management</a>
+                                    <a class="dropdown-item" asp-controller="AdminRole"
+                                       asp-action="Index">Role Management</a>
+                                </div>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link
+                                @(controller.StartsWith("Admin") ? "active" : "")"
+                                   asp-controller="AdminHome" asp-action="Index">Admin</a>
+                            </li>
+                        }
+                       
+                        <li class="nav-item">
+                            <form asp-action="Logout" asp-controller="Account" method="post">
+
+                                <button class="btn btn-link nav-link" type="submit">Log Out</button>
+
+                            </form>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="Register" asp-controller="Account">Register</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="Login" asp-controller="Account">Log in</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </nav>
+    </header>
+    <main class="container bg-light">
+        @RenderBody()
+    </main>
+
+  
+
+    <footer class="container text-center">
+        <hr />
+        <p>
+            &copy; @DateTime.Now.Year - MaLacoste Footwear
+            <br />
+            <i class="fst-italic fw-bold">Created by: KE. Motloung (2019476593)</i>
+
+            <a href="mailto:2019476593@ufs4life.ac.za" target="_blank">
+                <i class="fa-solid fa-envelope"></i>
+            </a>
+            <br />
+
+            <i class="fst-italic">
+                Let's connect :
+                <a href="https://www.linkedin.com/in/koena-motloung-4a83a9258" target="_blank">
+                    <!--target blank means the link will start in a new blank page-->
+                    <i class="fab fa-linkedin "></i>
+                </a>
+            </i>
+            <br /><br />
+            <div class="bg-dark text-light">
+                <i class="fa-brands fa-tiktok fa-1x"></i>
+                <i class="fa-brands fa-facebook fa-1x"></i>
+                <i class="fa-brands fa-twitter fa-1x"></i>
+                <i class="fab fa-whatsapp"></i>
+            </div>
+        </p>
+    </footer>
+    <script asp-src-include="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

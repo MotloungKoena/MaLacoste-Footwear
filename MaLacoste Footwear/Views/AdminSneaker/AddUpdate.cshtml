@@ -1,0 +1,42 @@
+﻿<!-- this view is used for the Add action and the Update action -->
+@model Sneaker
+@{
+    Layout = "_AdminLayout";
+    string title = ViewBag.Action + " Sneaker";
+    ViewBag.Title = title;    // sets title to "Add Sneaker" or "Update Sneaker"
+}
+
+<h1>@ViewBag.Title</h1>
+
+<form asp-action="Update" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="BrandId">Brand</label>
+        <select asp-for="BrandId"
+                asp-items="@(new SelectList(ViewBag.Brands,
+                         "BrandId", "BrandName",
+                         Model.BrandId.ToString()))"
+                class="form-control"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Code">Code</label>
+        <input asp-for="Code" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price">Price</label>
+        <input asp-for="Price" class="form-control">
+    </div>
+
+    <input type="hidden" asp-for="SneakerId" />
+
+    <button type="submit" class="btn btn-primary">@ViewBag.Action</button>
+    <a asp-action="List" class="btn btn-primary">Cancel</a>
+</form>

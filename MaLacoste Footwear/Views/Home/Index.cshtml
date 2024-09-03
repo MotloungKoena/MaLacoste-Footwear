@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Welcome to MaLacoste Footwear!</h1>
+
+<p>Make yourself at home and check out some cool kicks we got.</p>
+
+<div class="row">
+    <div class="col-sm-4">
+        <div class="list-group">
+            <a asp-controller="Sneaker" asp-action="List"
+               class="list-group-item">View our kicks</a>
+            <a asp-controller="Home" asp-action="About"
+               class="list-group-item">Learn more about us</a>
+        </div>
+    </div>
+</div>

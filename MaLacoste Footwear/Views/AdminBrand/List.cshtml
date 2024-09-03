@@ -1,0 +1,43 @@
+﻿@model List<Brand>
+@{
+    Layout = "_AdminLayout";
+    ViewBag.Title = "Brand Manager";
+}
+
+<h1>@ViewBag.Title</h1>
+
+@*dismissable alert*@
+@if (TempData["Message"] is not null)
+{
+    <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        @TempData["Message"]
+    </div>
+}
+<div>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th></th>
+                <th></th>
+        </thead>
+        <tbody>
+            @foreach (var brand in Model)
+            {
+                <tr>
+                    <td>@brand.BrandName</td>
+                    <td>
+                        <a asp-action="Update"
+                           asp-route-id="@brand.BrandId">Update</a>
+                    </td>
+                    <td>
+                        <a asp-action="Delete"
+                           asp-route-id="@brand.BrandId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Add" class="btn btn-primary">Add New Brand</a>
+</div>

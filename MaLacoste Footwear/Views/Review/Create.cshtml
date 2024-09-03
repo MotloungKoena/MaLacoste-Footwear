@@ -1,0 +1,42 @@
+﻿@model Review
+
+@{
+    ViewBag.Title = "Submit Review";
+}
+
+<h2>Create Review</h2>
+
+<form asp-action="Create" method="post">
+    <br />
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="Message" class="control-label"></label>
+        <textarea asp-for="Message" class="form-control"></textarea>
+        <span asp-validation-for="Message" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="GenderId" class="control-label">Gender</label>
+        <select asp-for="GenderId" class="form-control" asp-items="@(new SelectList(ViewBag.Genders, "Id", "Name"))"></select>
+        <span asp-validation-for="GenderId" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <input type="submit" value="Submit" class="btn btn-primary" />
+    </div>
+</form>
+
+<br />
+<hr />
+<a asp-action="Details" asp-controller="Sneaker" class="btn btn-outline-primary">Back</a>

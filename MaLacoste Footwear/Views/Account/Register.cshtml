@@ -1,0 +1,37 @@
+﻿@model RegisterViewModel
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<form asp-action="Register" method="post" enctype="multipart/form-data">
+
+    <div class="mb-3">
+        <label asp-for="UserName" class="form-label"></label>
+        <input asp-for="UserName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label"></label>
+        <input asp-for="Password" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="ConfirmPassword" class="form-label"></label>
+        <input asp-for="ConfirmPassword" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Upload an avatar image</label>
+        <input asp-for="AvatarImage" class="form-control" />
+    </div>
+
+    <button class="btn btn-primary" type="submit">Register</button>
+</form>
+
